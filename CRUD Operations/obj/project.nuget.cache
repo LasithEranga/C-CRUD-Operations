@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OVjwaET196fIGILc65P4QmavClvMUmxy/aJaHnDb2H4LG8T3mkMQMp+olxmx1l/v2xcSS7dmfr/5+imsfNrcw==",
+  "success": true,
+  "projectFilePath": "E:\\C# Projects\\CRUD Operations\\CRUD Operations\\CRUD Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lasith\\.nuget\\packages\\mysqlconnector\\1.3.10\\mysqlconnector.1.3.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.exe
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.deps.json
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.runtimeconfig.json
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.runtimeconfig.dev.json
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.dll
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\CRUD Operations.pdb
+E:\C# Projects\CRUD Operations\CRUD Operations\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.csproj.AssemblyReference.cache
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD_Operations.CRUD.resources
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.csproj.GenerateResource.cache
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.AssemblyInfoInputs.cache
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.AssemblyInfo.cs
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.csproj.CoreCompileInputs.cache
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.csproj.CopyComplete
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.dll
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.pdb
+E:\C# Projects\CRUD Operations\CRUD Operations\obj\Debug\netcoreapp3.1\CRUD Operations.genruntimeconfig.cache
